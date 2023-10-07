@@ -1,0 +1,4 @@
+error handling
+loading state
+navbar state
+logout functionality
